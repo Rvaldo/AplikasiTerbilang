@@ -1,0 +1,5 @@
+E:\Semester 3\Visual Studio\TerbilangApp\TerbilangLibrary\bin\Debug\TerbilangLibrary.dll
+E:\Semester 3\Visual Studio\TerbilangApp\TerbilangLibrary\bin\Debug\TerbilangLibrary.pdb
+E:\Semester 3\Visual Studio\TerbilangApp\TerbilangLibrary\obj\Debug\TerbilangLibrary.csprojResolveAssemblyReference.cache
+E:\Semester 3\Visual Studio\TerbilangApp\TerbilangLibrary\obj\Debug\TerbilangLibrary.dll
+E:\Semester 3\Visual Studio\TerbilangApp\TerbilangLibrary\obj\Debug\TerbilangLibrary.pdb

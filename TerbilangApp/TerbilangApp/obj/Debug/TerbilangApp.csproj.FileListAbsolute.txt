@@ -1,0 +1,11 @@
+E:\Semester 3\Visual Studio\TerbilangApp\TerbilangApp\bin\Debug\TerbilangApp.exe.config
+E:\Semester 3\Visual Studio\TerbilangApp\TerbilangApp\bin\Debug\TerbilangApp.exe
+E:\Semester 3\Visual Studio\TerbilangApp\TerbilangApp\bin\Debug\TerbilangApp.pdb
+E:\Semester 3\Visual Studio\TerbilangApp\TerbilangApp\bin\Debug\TerbilangLibrary.dll
+E:\Semester 3\Visual Studio\TerbilangApp\TerbilangApp\bin\Debug\TerbilangLibrary.pdb
+E:\Semester 3\Visual Studio\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.csprojResolveAssemblyReference.cache
+E:\Semester 3\Visual Studio\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.Form1.resources
+E:\Semester 3\Visual Studio\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.Properties.Resources.resources
+E:\Semester 3\Visual Studio\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.csproj.GenerateResource.Cache
+E:\Semester 3\Visual Studio\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.exe
+E:\Semester 3\Visual Studio\TerbilangApp\TerbilangApp\obj\Debug\TerbilangApp.pdb
